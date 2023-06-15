@@ -6,9 +6,20 @@ You can read more about this randomizer mod at [cleartonic.net's DQ3HF page.](ht
 
 Join the [Discord server for this project here.](https://discord.gg/YwygyUWMEd)
 
-## How to play
+## Note
+This fork changes nothing to the original project, beside the instructions below.  
+This is because the executable provided trigger some antivirus softwares.  
+Do note those instructions should also work on Linux and MacOS.  
 
-Download the latest release at this repository's [releases page.](https://github.com/cleartonic/dq3hf/releases/)  After extracting the release files into a directory, open "dq3hf.exe" and make sure your operating system allows the executable to be opened. 
+## How to install
+
+1. Download a copy of this repository.  
+2. Install [Python 3](https://www.python.org/downloads/).  
+3. Open a command prompt on your system and type `python -m pip install PyQt5`  
+
+## How to play
+Simply double click `script.py` and a window as shown below should appear.  
+Alternatively, open a command prompt in the same folder and type `python script.py`.  
 
 This mod supports both the Japanese original game, and the [English fan translation.](https://www.romhacking.net/translations/1323/)  
 
